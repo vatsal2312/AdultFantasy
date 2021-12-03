@@ -2,8 +2,8 @@
 
 // This is a work in progress.  All elements are subject to change.
 
-pragma solidity 0.8.10;
-import "hardhat/console.sol";
+pragma solidity 0.8.9;
+import "./console.sol";
 import "./AFRoles.sol";
 import "./ConstantsAF.sol";
 
