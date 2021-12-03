@@ -2,7 +2,7 @@
 
 // This is a work in progress.  All elements are subject to change.
 
-pragma solidity 0.8.10;
+pragma solidity 0.8.9;
 import "./AccessControlEnumerable.sol";
 import "./ConstantsAF.sol";
 
